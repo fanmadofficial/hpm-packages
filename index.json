@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/fanmadofficial/hpm-packages/",
+  "last_update": "2026-13-07",
+  "packages": [
+    {
+      "name": "snake",
+      "version": "final",
+      "description": "a bash snake game",
+      "category": "games",
+      "url": "https://raw.githubusercontent.com/fanmadofficial/hpm-packages/main/packages/snake/"
+    }
