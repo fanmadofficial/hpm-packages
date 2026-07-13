@@ -1,1 +1,13 @@
-
+{
+  "repository": "https://github.com/fanmadofficial/hpm-packages/",
+  "last_update": "13-07-2026",
+  "packages": [
+    {
+      "name": "hello",
+      "version": "final",
+      "description": "a test program",
+      "category": "test",
+      "url": "https://raw.githubusercontent.com/fanmadofficial/hpm-packages/main/packages/hello"
+    }
+  ]
+}
