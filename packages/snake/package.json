@@ -1,0 +1,16 @@
+{
+  "name": "snake",
+  "version": "final",
+  "description": "a bash snake game",
+  "author": "Pjhades",
+  "license": "MIT",
+  "category": "games",
+  "dependencies": [],
+  "scripts": {
+    "install": "cp snake.sh /usr/local/bin/snake && chmod +x /usr/local/bin/snake",
+    "remove": "rm -f /usr/local/bin/snake"
+  },
+  "files": [
+    "snake.sh"
+  ]
+}
