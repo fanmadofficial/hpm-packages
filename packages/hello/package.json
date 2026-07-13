@@ -1,0 +1,16 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "a test program",
+  "author": "fanmad",
+  "license": "GPL v3.0",
+  "category": "test",
+  "dependencies": [],
+  "scripts": {
+    "install": "cp hello.sh /usr/local/bin/hello && chmod +x /usr/local/bin/hello",
+    "remove": "rm -f /usr/local/bin/hello"
+  },
+  "files": [
+    "hello.sh"
+  ]
+}
